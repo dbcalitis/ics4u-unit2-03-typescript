@@ -16,7 +16,7 @@ const myStack = new MrCoxallStack()
 let continueLoop = true
 
 while (continueLoop) {
-  console.log('Enter \'q\' to exit the loop.')
+  console.log("Enter 'q' to exit the loop.")
   let num
   const answer = prompt('Enter action (pop/peek/push): ')
 
